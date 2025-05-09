@@ -1,0 +1,11 @@
+name: n-rainhas
+channels:
+    - conda-forge
+dependencies:
+    - pip
+    - python=3.12
+    - pip:
+          - matplotlib
+          - jupyterlab
+          - pandas
+          - seaborn
