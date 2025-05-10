@@ -24,9 +24,9 @@ Nesse caso do problema das `NRainhas`, poderíamos pensar em uma representação
 
 ![representação gráfica](./assets/nrainhas-grafico.png)
 
-Pelo grafico, podemos ver que cada configuracao do tabuleiro $x$ gera um numero de ataques $y$, ou seja $f(x)=y$.
+Pelo gráfico, podemos ver que cada configuração do tabuleiro $x$ gera um numero de ataques $y$, ou seja $f(x)=y$.
 
-Como nosso objetivo nas `NRainhas` é fazer com que nenhuma rainha seja atacada, poderemos ter diversas configurações que são consideradas gloabal optima.
+Como nosso objetivo nas `NRainhas` é fazer com que nenhuma rainha seja atacada, poderemos ter diversas configurações que são consideradas global optima.
 
 Dessa forma, nosso problema não necessariamente possui um local optima, mas pela natureza da implementação, não é garantido que ele encontre algum dessas soluções globais. Sendo assim, o algoritmo pode muitas vezes enroscar em um ponto da subida da colina e nunca conseguir chegar de fato ao topo.
 
@@ -92,7 +92,7 @@ solução 2 | 24 | 6
 
 Mesmo com melhores resultados apresentados, devemos levar em consideração a complexidade de tempo de cada versão. Antes de fazer isso, precisamos definir as primitivas e complexidade de funções auxiliares.
 
-Como primitiva, definiremos as funçoes `calAtaques()` e `locateQueens()`, uma vez que para nossa análise elas não influenciarao, já que sempre serao chamadas $n$ vezes no pior caso. Sendo assim, para esta analise, iremos trata-las como $O(1)$.
+Como primitiva, definiremos as funções `calAtaques()` e `locateQueens()`, uma vez que para nossa análise elas não influenciarão, já que sempre serão chamadas $n$ vezes no pior caso. Sendo assim, para esta analise, iremos trata-las como $O(1)$.
 
 Para as funções auxiliares, definiremos as complexidades como:
 
@@ -101,17 +101,17 @@ Para as funções auxiliares, definiremos as complexidades como:
 | `moveRainhaAleatoria()` | $O(1)$, uma vez que a proxima casa sempre estará vazia |
 | `moveRainhaMelhorPosicao()` | $O(n^2)$, sendo $n$ o comprimento do tabuleiro |
 
-Com isso podemos dizer que a complexidade para cada versao de implementacao é:
+Com isso podemos dizer que a complexidade para cada versão de implementação é:
 
 | versão | complexidade |
 |--------|--------------|
 | padrão | $O(r)$, sendo $r$ o número máximo de iterações |
-| solucao 1 | $O(r* (n^2))$ |
-| solucao 2 | $O(r)$ | 
+| solução 1 | $O(r* (n^2))$ |
+| solução 2 | $O(r)$ | 
 
-Sendo assim, o algoritmo que acaba sendo melhor em sentido de tempo de execução é a `solução 2`, uma vez que, como visto, consegue encontrar o resultado mais rápido e ainda possui mesma complexidade de que a versao padrao.
+Sendo assim, o algoritmo que acaba sendo melhor em sentido de tempo de execução é a `solução 2`, uma vez que, como visto, consegue encontrar o resultado mais rápido e ainda possui mesma complexidade de que a versão padrão.
 
-No entanto, como o que queremo é encontrar o resultado correto a maior parte das vezes, a `solução 1` ainda é a melhor, tendo um tradeoff de `tempo-solução`.
+No entanto, como o que queremos é encontrar o resultado correto a maior parte das vezes, a `solução 1` ainda é a melhor, tendo um tradeoff de `tempo-solução`.
 
 ## Conclusão
 
