@@ -1,2089 +1,3001 @@
-method,iterations,status,board_size
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,132,Solução,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,168,Solução,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-standard,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,1001,Falha,9
-move best position - random,50,Solução,9
-move best position - random,80,Solução,9
-move best position - random,7,Solução,9
-move best position - random,12,Solução,9
-move best position - random,8,Solução,9
-move best position - random,12,Solução,9
-move best position - random,28,Solução,9
-move best position - random,9,Solução,9
-move best position - random,117,Solução,9
-move best position - random,9,Solução,9
-move best position - random,21,Solução,9
-move best position - random,12,Solução,9
-move best position - random,37,Solução,9
-move best position - random,19,Solução,9
-move best position - random,11,Solução,9
-move best position - random,15,Solução,9
-move best position - random,11,Solução,9
-move best position - random,10,Solução,9
-move best position - random,28,Solução,9
-move best position - random,71,Solução,9
-move best position - random,48,Solução,9
-move best position - random,150,Solução,9
-move best position - random,21,Solução,9
-move best position - random,37,Solução,9
-move best position - random,26,Solução,9
-move best position - random,8,Solução,9
-move best position - random,15,Solução,9
-move best position - random,172,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,13,Solução,9
-move best position - random,75,Solução,9
-move best position - random,9,Solução,9
-move best position - random,47,Solução,9
-move best position - random,179,Solução,9
-move best position - random,8,Solução,9
-move best position - random,7,Solução,9
-move best position - random,69,Solução,9
-move best position - random,65,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,40,Solução,9
-move best position - random,9,Solução,9
-move best position - random,129,Solução,9
-move best position - random,171,Solução,9
-move best position - random,32,Solução,9
-move best position - random,83,Solução,9
-move best position - random,42,Solução,9
-move best position - random,53,Solução,9
-move best position - random,19,Solução,9
-move best position - random,65,Solução,9
-move best position - random,45,Solução,9
-move best position - random,14,Solução,9
-move best position - random,20,Solução,9
-move best position - random,78,Solução,9
-move best position - random,88,Solução,9
-move best position - random,16,Solução,9
-move best position - random,36,Solução,9
-move best position - random,85,Solução,9
-move best position - random,15,Solução,9
-move best position - random,70,Solução,9
-move best position - random,17,Solução,9
-move best position - random,60,Solução,9
-move best position - random,18,Solução,9
-move best position - random,109,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,24,Solução,9
-move best position - random,209,Solução,9
-move best position - random,50,Solução,9
-move best position - random,54,Solução,9
-move best position - random,18,Solução,9
-move best position - random,92,Solução,9
-move best position - random,13,Solução,9
-move best position - random,51,Solução,9
-move best position - random,111,Solução,9
-move best position - random,38,Solução,9
-move best position - random,54,Solução,9
-move best position - random,110,Solução,9
-move best position - random,10,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,86,Solução,9
-move best position - random,12,Solução,9
-move best position - random,11,Solução,9
-move best position - random,12,Solução,9
-move best position - random,76,Solução,9
-move best position - random,231,Solução,9
-move best position - random,164,Solução,9
-move best position - random,7,Solução,9
-move best position - random,7,Solução,9
-move best position - random,187,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,89,Solução,9
-move best position - random,25,Solução,9
-move best position - random,18,Solução,9
-move best position - random,60,Solução,9
-move best position - random,69,Solução,9
-move best position - random,52,Solução,9
-move best position - random,38,Solução,9
-move best position - random,115,Solução,9
-move best position - random,60,Solução,9
-move best position - random,30,Solução,9
-move best position - random,47,Solução,9
-move best position - random,34,Solução,9
-move best position - random,11,Solução,9
-move best position - random,32,Solução,9
-move best position - random,11,Solução,9
-move best position - random,31,Solução,9
-move best position - random,82,Solução,9
-move best position - random,7,Solução,9
-move best position - random,72,Solução,9
-move best position - random,35,Solução,9
-move best position - random,73,Solução,9
-move best position - random,37,Solução,9
-move best position - random,70,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,132,Solução,9
-move best position - random,13,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,62,Solução,9
-move best position - random,61,Solução,9
-move best position - random,65,Solução,9
-move best position - random,87,Solução,9
-move best position - random,55,Solução,9
-move best position - random,14,Solução,9
-move best position - random,12,Solução,9
-move best position - random,15,Solução,9
-move best position - random,15,Solução,9
-move best position - random,75,Solução,9
-move best position - random,12,Solução,9
-move best position - random,50,Solução,9
-move best position - random,69,Solução,9
-move best position - random,74,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,8,Solução,9
-move best position - random,9,Solução,9
-move best position - random,19,Solução,9
-move best position - random,138,Solução,9
-move best position - random,11,Solução,9
-move best position - random,87,Solução,9
-move best position - random,46,Solução,9
-move best position - random,19,Solução,9
-move best position - random,50,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,23,Solução,9
-move best position - random,18,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,18,Solução,9
-move best position - random,12,Solução,9
-move best position - random,81,Solução,9
-move best position - random,8,Solução,9
-move best position - random,73,Solução,9
-move best position - random,21,Solução,9
-move best position - random,60,Solução,9
-move best position - random,19,Solução,9
-move best position - random,21,Solução,9
-move best position - random,129,Solução,9
-move best position - random,9,Solução,9
-move best position - random,7,Solução,9
-move best position - random,15,Solução,9
-move best position - random,103,Solução,9
-move best position - random,183,Solução,9
-move best position - random,70,Solução,9
-move best position - random,16,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,11,Solução,9
-move best position - random,13,Solução,9
-move best position - random,16,Solução,9
-move best position - random,9,Solução,9
-move best position - random,65,Solução,9
-move best position - random,70,Solução,9
-move best position - random,41,Solução,9
-move best position - random,25,Solução,9
-move best position - random,15,Solução,9
-move best position - random,8,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,29,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,18,Solução,9
-move best position - random,21,Solução,9
-move best position - random,19,Solução,9
-move best position - random,21,Solução,9
-move best position - random,105,Solução,9
-move best position - random,9,Solução,9
-move best position - random,130,Solução,9
-move best position - random,15,Solução,9
-move best position - random,6,Solução,9
-move best position - random,14,Solução,9
-move best position - random,45,Solução,9
-move best position - random,8,Solução,9
-move best position - random,38,Solução,9
-move best position - random,163,Solução,9
-move best position - random,17,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,57,Solução,9
-move best position - random,9,Solução,9
-move best position - random,8,Solução,9
-move best position - random,29,Solução,9
-move best position - random,221,Solução,9
-move best position - random,91,Solução,9
-move best position - random,39,Solução,9
-move best position - random,11,Solução,9
-move best position - random,7,Solução,9
-move best position - random,143,Solução,9
-move best position - random,17,Solução,9
-move best position - random,148,Solução,9
-move best position - random,23,Solução,9
-move best position - random,14,Solução,9
-move best position - random,51,Solução,9
-move best position - random,77,Solução,9
-move best position - random,23,Solução,9
-move best position - random,117,Solução,9
-move best position - random,45,Solução,9
-move best position - random,32,Solução,9
-move best position - random,55,Solução,9
-move best position - random,9,Solução,9
-move best position - random,9,Solução,9
-move best position - random,25,Solução,9
-move best position - random,11,Solução,9
-move best position - random,97,Solução,9
-move best position - random,43,Solução,9
-move best position - random,7,Solução,9
-move best position - random,21,Solução,9
-move best position - random,121,Solução,9
-move best position - random,40,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,26,Solução,9
-move best position - random,20,Solução,9
-move best position - random,12,Solução,9
-move best position - random,28,Solução,9
-move best position - random,14,Solução,9
-move best position - random,25,Solução,9
-move best position - random,151,Solução,9
-move best position - random,78,Solução,9
-move best position - random,17,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,255,Solução,9
-move best position - random,14,Solução,9
-move best position - random,74,Solução,9
-move best position - random,196,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,100,Solução,9
-move best position - random,49,Solução,9
-move best position - random,15,Solução,9
-move best position - random,138,Solução,9
-move best position - random,43,Solução,9
-move best position - random,25,Solução,9
-move best position - random,35,Solução,9
-move best position - random,31,Solução,9
-move best position - random,14,Solução,9
-move best position - random,52,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,11,Solução,9
-move best position - random,30,Solução,9
-move best position - random,48,Solução,9
-move best position - random,11,Solução,9
-move best position - random,76,Solução,9
-move best position - random,37,Solução,9
-move best position - random,13,Solução,9
-move best position - random,14,Solução,9
-move best position - random,370,Solução,9
-move best position - random,18,Solução,9
-move best position - random,260,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,57,Solução,9
-move best position - random,97,Solução,9
-move best position - random,44,Solução,9
-move best position - random,31,Solução,9
-move best position - random,27,Solução,9
-move best position - random,37,Solução,9
-move best position - random,28,Solução,9
-move best position - random,32,Solução,9
-move best position - random,9,Solução,9
-move best position - random,9,Solução,9
-move best position - random,133,Solução,9
-move best position - random,214,Solução,9
-move best position - random,96,Solução,9
-move best position - random,24,Solução,9
-move best position - random,16,Solução,9
-move best position - random,12,Solução,9
-move best position - random,116,Solução,9
-move best position - random,67,Solução,9
-move best position - random,9,Solução,9
-move best position - random,8,Solução,9
-move best position - random,13,Solução,9
-move best position - random,17,Solução,9
-move best position - random,90,Solução,9
-move best position - random,15,Solução,9
-move best position - random,52,Solução,9
-move best position - random,59,Solução,9
-move best position - random,33,Solução,9
-move best position - random,7,Solução,9
-move best position - random,17,Solução,9
-move best position - random,15,Solução,9
-move best position - random,182,Solução,9
-move best position - random,65,Solução,9
-move best position - random,32,Solução,9
-move best position - random,122,Solução,9
-move best position - random,177,Solução,9
-move best position - random,45,Solução,9
-move best position - random,94,Solução,9
-move best position - random,61,Solução,9
-move best position - random,19,Solução,9
-move best position - random,7,Solução,9
-move best position - random,117,Solução,9
-move best position - random,13,Solução,9
-move best position - random,10,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,16,Solução,9
-move best position - random,10,Solução,9
-move best position - random,141,Solução,9
-move best position - random,39,Solução,9
-move best position - random,75,Solução,9
-move best position - random,7,Solução,9
-move best position - random,25,Solução,9
-move best position - random,104,Solução,9
-move best position - random,50,Solução,9
-move best position - random,9,Solução,9
-move best position - random,17,Solução,9
-move best position - random,13,Solução,9
-move best position - random,24,Solução,9
-move best position - random,12,Solução,9
-move best position - random,11,Solução,9
-move best position - random,90,Solução,9
-move best position - random,128,Solução,9
-move best position - random,11,Solução,9
-move best position - random,45,Solução,9
-move best position - random,8,Solução,9
-move best position - random,59,Solução,9
-move best position - random,41,Solução,9
-move best position - random,9,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,76,Solução,9
-move best position - random,24,Solução,9
-move best position - random,17,Solução,9
-move best position - random,13,Solução,9
-move best position - random,25,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,14,Solução,9
-move best position - random,67,Solução,9
-move best position - random,23,Solução,9
-move best position - random,184,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,27,Solução,9
-move best position - random,15,Solução,9
-move best position - random,46,Solução,9
-move best position - random,179,Solução,9
-move best position - random,37,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,8,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,95,Solução,9
-move best position - random,10,Solução,9
-move best position - random,145,Solução,9
-move best position - random,87,Solução,9
-move best position - random,24,Solução,9
-move best position - random,22,Solução,9
-move best position - random,31,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,17,Solução,9
-move best position - random,111,Solução,9
-move best position - random,59,Solução,9
-move best position - random,108,Solução,9
-move best position - random,7,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,101,Solução,9
-move best position - random,60,Solução,9
-move best position - random,35,Solução,9
-move best position - random,70,Solução,9
-move best position - random,89,Solução,9
-move best position - random,13,Solução,9
-move best position - random,56,Solução,9
-move best position - random,18,Solução,9
-move best position - random,61,Solução,9
-move best position - random,42,Solução,9
-move best position - random,26,Solução,9
-move best position - random,31,Solução,9
-move best position - random,21,Solução,9
-move best position - random,16,Solução,9
-move best position - random,21,Solução,9
-move best position - random,46,Solução,9
-move best position - random,332,Solução,9
-move best position - random,61,Solução,9
-move best position - random,11,Solução,9
-move best position - random,73,Solução,9
-move best position - random,38,Solução,9
-move best position - random,68,Solução,9
-move best position - random,10,Solução,9
-move best position - random,22,Solução,9
-move best position - random,13,Solução,9
-move best position - random,14,Solução,9
-move best position - random,36,Solução,9
-move best position - random,56,Solução,9
-move best position - random,68,Solução,9
-move best position - random,20,Solução,9
-move best position - random,140,Solução,9
-move best position - random,16,Solução,9
-move best position - random,35,Solução,9
-move best position - random,25,Solução,9
-move best position - random,18,Solução,9
-move best position - random,86,Solução,9
-move best position - random,30,Solução,9
-move best position - random,15,Solução,9
-move best position - random,65,Solução,9
-move best position - random,475,Solução,9
-move best position - random,192,Solução,9
-move best position - random,9,Solução,9
-move best position - random,15,Solução,9
-move best position - random,74,Solução,9
-move best position - random,9,Solução,9
-move best position - random,17,Solução,9
-move best position - random,58,Solução,9
-move best position - random,111,Solução,9
-move best position - random,13,Solução,9
-move best position - random,8,Solução,9
-move best position - random,42,Solução,9
-move best position - random,30,Solução,9
-move best position - random,13,Solução,9
-move best position - random,22,Solução,9
-move best position - random,28,Solução,9
-move best position - random,18,Solução,9
-move best position - random,21,Solução,9
-move best position - random,22,Solução,9
-move best position - random,146,Solução,9
-move best position - random,82,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,99,Solução,9
-move best position - random,28,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,7,Solução,9
-move best position - random,8,Solução,9
-move best position - random,187,Solução,9
-move best position - random,37,Solução,9
-move best position - random,146,Solução,9
-move best position - random,27,Solução,9
-move best position - random,32,Solução,9
-move best position - random,18,Solução,9
-move best position - random,22,Solução,9
-move best position - random,68,Solução,9
-move best position - random,13,Solução,9
-move best position - random,13,Solução,9
-move best position - random,74,Solução,9
-move best position - random,50,Solução,9
-move best position - random,11,Solução,9
-move best position - random,8,Solução,9
-move best position - random,123,Solução,9
-move best position - random,11,Solução,9
-move best position - random,18,Solução,9
-move best position - random,21,Solução,9
-move best position - random,124,Solução,9
-move best position - random,12,Solução,9
-move best position - random,113,Solução,9
-move best position - random,43,Solução,9
-move best position - random,57,Solução,9
-move best position - random,36,Solução,9
-move best position - random,37,Solução,9
-move best position - random,93,Solução,9
-move best position - random,20,Solução,9
-move best position - random,30,Solução,9
-move best position - random,18,Solução,9
-move best position - random,57,Solução,9
-move best position - random,13,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,17,Solução,9
-move best position - random,45,Solução,9
-move best position - random,30,Solução,9
-move best position - random,89,Solução,9
-move best position - random,89,Solução,9
-move best position - random,15,Solução,9
-move best position - random,34,Solução,9
-move best position - random,22,Solução,9
-move best position - random,33,Solução,9
-move best position - random,37,Solução,9
-move best position - random,77,Solução,9
-move best position - random,12,Solução,9
-move best position - random,27,Solução,9
-move best position - random,58,Solução,9
-move best position - random,7,Solução,9
-move best position - random,11,Solução,9
-move best position - random,48,Solução,9
-move best position - random,10,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,102,Solução,9
-move best position - random,174,Solução,9
-move best position - random,47,Solução,9
-move best position - random,9,Solução,9
-move best position - random,135,Solução,9
-move best position - random,8,Solução,9
-move best position - random,34,Solução,9
-move best position - random,7,Solução,9
-move best position - random,20,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,15,Solução,9
-move best position - random,19,Solução,9
-move best position - random,8,Solução,9
-move best position - random,19,Solução,9
-move best position - random,39,Solução,9
-move best position - random,19,Solução,9
-move best position - random,32,Solução,9
-move best position - random,20,Solução,9
-move best position - random,24,Solução,9
-move best position - random,15,Solução,9
-move best position - random,19,Solução,9
-move best position - random,74,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,71,Solução,9
-move best position - random,22,Solução,9
-move best position - random,65,Solução,9
-move best position - random,10,Solução,9
-move best position - random,115,Solução,9
-move best position - random,7,Solução,9
-move best position - random,46,Solução,9
-move best position - random,28,Solução,9
-move best position - random,54,Solução,9
-move best position - random,53,Solução,9
-move best position - random,7,Solução,9
-move best position - random,23,Solução,9
-move best position - random,78,Solução,9
-move best position - random,7,Solução,9
-move best position - random,32,Solução,9
-move best position - random,6,Solução,9
-move best position - random,25,Solução,9
-move best position - random,78,Solução,9
-move best position - random,37,Solução,9
-move best position - random,60,Solução,9
-move best position - random,81,Solução,9
-move best position - random,59,Solução,9
-move best position - random,20,Solução,9
-move best position - random,17,Solução,9
-move best position - random,27,Solução,9
-move best position - random,104,Solução,9
-move best position - random,23,Solução,9
-move best position - random,184,Solução,9
-move best position - random,68,Solução,9
-move best position - random,35,Solução,9
-move best position - random,56,Solução,9
-move best position - random,23,Solução,9
-move best position - random,101,Solução,9
-move best position - random,10,Solução,9
-move best position - random,13,Solução,9
-move best position - random,10,Solução,9
-move best position - random,26,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,36,Solução,9
-move best position - random,9,Solução,9
-move best position - random,37,Solução,9
-move best position - random,77,Solução,9
-move best position - random,42,Solução,9
-move best position - random,29,Solução,9
-move best position - random,53,Solução,9
-move best position - random,13,Solução,9
-move best position - random,7,Solução,9
-move best position - random,51,Solução,9
-move best position - random,27,Solução,9
-move best position - random,15,Solução,9
-move best position - random,45,Solução,9
-move best position - random,19,Solução,9
-move best position - random,35,Solução,9
-move best position - random,12,Solução,9
-move best position - random,10,Solução,9
-move best position - random,20,Solução,9
-move best position - random,33,Solução,9
-move best position - random,87,Solução,9
-move best position - random,125,Solução,9
-move best position - random,17,Solução,9
-move best position - random,12,Solução,9
-move best position - random,88,Solução,9
-move best position - random,33,Solução,9
-move best position - random,59,Solução,9
-move best position - random,111,Solução,9
-move best position - random,49,Solução,9
-move best position - random,17,Solução,9
-move best position - random,15,Solução,9
-move best position - random,8,Solução,9
-move best position - random,39,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,29,Solução,9
-move best position - random,75,Solução,9
-move best position - random,23,Solução,9
-move best position - random,16,Solução,9
-move best position - random,58,Solução,9
-move best position - random,33,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,17,Solução,9
-move best position - random,170,Solução,9
-move best position - random,8,Solução,9
-move best position - random,56,Solução,9
-move best position - random,80,Solução,9
-move best position - random,115,Solução,9
-move best position - random,70,Solução,9
-move best position - random,68,Solução,9
-move best position - random,217,Solução,9
-move best position - random,64,Solução,9
-move best position - random,7,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,16,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,101,Solução,9
-move best position - random,170,Solução,9
-move best position - random,106,Solução,9
-move best position - random,50,Solução,9
-move best position - random,20,Solução,9
-move best position - random,12,Solução,9
-move best position - random,60,Solução,9
-move best position - random,123,Solução,9
-move best position - random,35,Solução,9
-move best position - random,32,Solução,9
-move best position - random,7,Solução,9
-move best position - random,16,Solução,9
-move best position - random,24,Solução,9
-move best position - random,33,Solução,9
-move best position - random,74,Solução,9
-move best position - random,13,Solução,9
-move best position - random,200,Solução,9
-move best position - random,69,Solução,9
-move best position - random,58,Solução,9
-move best position - random,48,Solução,9
-move best position - random,10,Solução,9
-move best position - random,12,Solução,9
-move best position - random,15,Solução,9
-move best position - random,35,Solução,9
-move best position - random,11,Solução,9
-move best position - random,7,Solução,9
-move best position - random,11,Solução,9
-move best position - random,8,Solução,9
-move best position - random,8,Solução,9
-move best position - random,112,Solução,9
-move best position - random,27,Solução,9
-move best position - random,81,Solução,9
-move best position - random,10,Solução,9
-move best position - random,61,Solução,9
-move best position - random,6,Solução,9
-move best position - random,19,Solução,9
-move best position - random,9,Solução,9
-move best position - random,10,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,149,Solução,9
-move best position - random,114,Solução,9
-move best position - random,27,Solução,9
-move best position - random,543,Solução,9
-move best position - random,11,Solução,9
-move best position - random,6,Solução,9
-move best position - random,24,Solução,9
-move best position - random,9,Solução,9
-move best position - random,6,Solução,9
-move best position - random,155,Solução,9
-move best position - random,7,Solução,9
-move best position - random,142,Solução,9
-move best position - random,22,Solução,9
-move best position - random,25,Solução,9
-move best position - random,53,Solução,9
-move best position - random,77,Solução,9
-move best position - random,50,Solução,9
-move best position - random,13,Solução,9
-move best position - random,40,Solução,9
-move best position - random,98,Solução,9
-move best position - random,147,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,136,Solução,9
-move best position - random,87,Solução,9
-move best position - random,12,Solução,9
-move best position - random,403,Solução,9
-move best position - random,242,Solução,9
-move best position - random,31,Solução,9
-move best position - random,101,Solução,9
-move best position - random,105,Solução,9
-move best position - random,38,Solução,9
-move best position - random,9,Solução,9
-move best position - random,41,Solução,9
-move best position - random,80,Solução,9
-move best position - random,8,Solução,9
-move best position - random,56,Solução,9
-move best position - random,32,Solução,9
-move best position - random,7,Solução,9
-move best position - random,108,Solução,9
-move best position - random,31,Solução,9
-move best position - random,94,Solução,9
-move best position - random,10,Solução,9
-move best position - random,14,Solução,9
-move best position - random,9,Solução,9
-move best position - random,7,Solução,9
-move best position - random,95,Solução,9
-move best position - random,17,Solução,9
-move best position - random,27,Solução,9
-move best position - random,161,Solução,9
-move best position - random,7,Solução,9
-move best position - random,56,Solução,9
-move best position - random,84,Solução,9
-move best position - random,7,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,78,Solução,9
-move best position - random,21,Solução,9
-move best position - random,35,Solução,9
-move best position - random,14,Solução,9
-move best position - random,113,Solução,9
-move best position - random,133,Solução,9
-move best position - random,13,Solução,9
-move best position - random,39,Solução,9
-move best position - random,17,Solução,9
-move best position - random,157,Solução,9
-move best position - random,11,Solução,9
-move best position - random,43,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,92,Solução,9
-move best position - random,36,Solução,9
-move best position - random,8,Solução,9
-move best position - random,34,Solução,9
-move best position - random,8,Solução,9
-move best position - random,17,Solução,9
-move best position - random,51,Solução,9
-move best position - random,116,Solução,9
-move best position - random,18,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,179,Solução,9
-move best position - random,36,Solução,9
-move best position - random,88,Solução,9
-move best position - random,67,Solução,9
-move best position - random,8,Solução,9
-move best position - random,34,Solução,9
-move best position - random,9,Solução,9
-move best position - random,18,Solução,9
-move best position - random,37,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,28,Solução,9
-move best position - random,6,Solução,9
-move best position - random,53,Solução,9
-move best position - random,22,Solução,9
-move best position - random,66,Solução,9
-move best position - random,21,Solução,9
-move best position - random,18,Solução,9
-move best position - random,6,Solução,9
-move best position - random,26,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,13,Solução,9
-move best position - random,14,Solução,9
-move best position - random,38,Solução,9
-move best position - random,25,Solução,9
-move best position - random,9,Solução,9
-move best position - random,89,Solução,9
-move best position - random,57,Solução,9
-move best position - random,35,Solução,9
-move best position - random,9,Solução,9
-move best position - random,209,Solução,9
-move best position - random,24,Solução,9
-move best position - random,56,Solução,9
-move best position - random,17,Solução,9
-move best position - random,7,Solução,9
-move best position - random,108,Solução,9
-move best position - random,48,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,57,Solução,9
-move best position - random,16,Solução,9
-move best position - random,26,Solução,9
-move best position - random,18,Solução,9
-move best position - random,61,Solução,9
-move best position - random,11,Solução,9
-move best position - random,9,Solução,9
-move best position - random,25,Solução,9
-move best position - random,9,Solução,9
-move best position - random,74,Solução,9
-move best position - random,183,Solução,9
-move best position - random,7,Solução,9
-move best position - random,14,Solução,9
-move best position - random,10,Solução,9
-move best position - random,15,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,86,Solução,9
-move best position - random,18,Solução,9
-move best position - random,31,Solução,9
-move best position - random,19,Solução,9
-move best position - random,179,Solução,9
-move best position - random,7,Solução,9
-move best position - random,61,Solução,9
-move best position - random,199,Solução,9
-move best position - random,69,Solução,9
-move best position - random,10,Solução,9
-move best position - random,201,Solução,9
-move best position - random,90,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,349,Solução,9
-move best position - random,10,Solução,9
-move best position - random,35,Solução,9
-move best position - random,104,Solução,9
-move best position - random,64,Solução,9
-move best position - random,15,Solução,9
-move best position - random,7,Solução,9
-move best position - random,217,Solução,9
-move best position - random,27,Solução,9
-move best position - random,13,Solução,9
-move best position - random,17,Solução,9
-move best position - random,61,Solução,9
-move best position - random,32,Solução,9
-move best position - random,46,Solução,9
-move best position - random,80,Solução,9
-move best position - random,9,Solução,9
-move best position - random,8,Solução,9
-move best position - random,20,Solução,9
-move best position - random,75,Solução,9
-move best position - random,10,Solução,9
-move best position - random,11,Solução,9
-move best position - random,11,Solução,9
-move best position - random,17,Solução,9
-move best position - random,75,Solução,9
-move best position - random,22,Solução,9
-move best position - random,180,Solução,9
-move best position - random,19,Solução,9
-move best position - random,38,Solução,9
-move best position - random,180,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,16,Solução,9
-move best position - random,19,Solução,9
-move best position - random,21,Solução,9
-move best position - random,10,Solução,9
-move best position - random,31,Solução,9
-move best position - random,76,Solução,9
-move best position - random,20,Solução,9
-move best position - random,193,Solução,9
-move best position - random,127,Solução,9
-move best position - random,13,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,182,Solução,9
-move best position - random,22,Solução,9
-move best position - random,446,Solução,9
-move best position - random,43,Solução,9
-move best position - random,9,Solução,9
-move best position - random,7,Solução,9
-move best position - random,46,Solução,9
-move best position - random,11,Solução,9
-move best position - random,111,Solução,9
-move best position - random,50,Solução,9
-move best position - random,53,Solução,9
-move best position - random,68,Solução,9
-move best position - random,10,Solução,9
-move best position - random,8,Solução,9
-move best position - random,15,Solução,9
-move best position - random,19,Solução,9
-move best position - random,97,Solução,9
-move best position - random,90,Solução,9
-move best position - random,10,Solução,9
-move best position - random,11,Solução,9
-move best position - random,17,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,23,Solução,9
-move best position - random,11,Solução,9
-move best position - random,184,Solução,9
-move best position - random,48,Solução,9
-move best position - random,8,Solução,9
-move best position - random,54,Solução,9
-move best position - random,113,Solução,9
-move best position - random,154,Solução,9
-move best position - random,11,Solução,9
-move best position - random,21,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,122,Solução,9
-move best position - random,25,Solução,9
-move best position - random,59,Solução,9
-move best position - random,13,Solução,9
-move best position - random,64,Solução,9
-move best position - random,14,Solução,9
-move best position - random,16,Solução,9
-move best position - random,77,Solução,9
-move best position - random,12,Solução,9
-move best position - random,17,Solução,9
-move best position - random,7,Solução,9
-move best position - random,10,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,89,Solução,9
-move best position - random,39,Solução,9
-move best position - random,7,Solução,9
-move best position - random,9,Solução,9
-move best position - random,12,Solução,9
-move best position - random,13,Solução,9
-move best position - random,39,Solução,9
-move best position - random,59,Solução,9
-move best position - random,71,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,12,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,225,Solução,9
-move best position - random,80,Solução,9
-move best position - random,8,Solução,9
-move best position - random,20,Solução,9
-move best position - random,8,Solução,9
-move best position - random,29,Solução,9
-move best position - random,60,Solução,9
-move best position - random,80,Solução,9
-move best position - random,42,Solução,9
-move best position - random,78,Solução,9
-move best position - random,439,Solução,9
-move best position - random,18,Solução,9
-move best position - random,11,Solução,9
-move best position - random,47,Solução,9
-move best position - random,84,Solução,9
-move best position - random,10,Solução,9
-move best position - random,10,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,41,Solução,9
-move best position - random,31,Solução,9
-move best position - random,90,Solução,9
-move best position - random,87,Solução,9
-move best position - random,123,Solução,9
-move best position - random,22,Solução,9
-move best position - random,12,Solução,9
-move best position - random,8,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,11,Solução,9
-move best position - random,275,Solução,9
-move best position - random,28,Solução,9
-move best position - random,124,Solução,9
-move best position - random,13,Solução,9
-move best position - random,55,Solução,9
-move best position - random,142,Solução,9
-move best position - random,131,Solução,9
-move best position - random,8,Solução,9
-move best position - random,67,Solução,9
-move best position - random,30,Solução,9
-move best position - random,131,Solução,9
-move best position - random,16,Solução,9
-move best position - random,61,Solução,9
-move best position - random,12,Solução,9
-move best position - random,20,Solução,9
-move best position - random,63,Solução,9
-move best position - random,8,Solução,9
-move best position - random,53,Solução,9
-move best position - random,9,Solução,9
-move best position - random,8,Solução,9
-move best position - random,45,Solução,9
-move best position - random,9,Solução,9
-move best position - random,36,Solução,9
-move best position - random,26,Solução,9
-move best position - random,33,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,281,Solução,9
-move best position - random,124,Solução,9
-move best position - random,21,Solução,9
-move best position - random,30,Solução,9
-move best position - random,19,Solução,9
-move best position - random,73,Solução,9
-move best position - random,42,Solução,9
-move best position - random,19,Solução,9
-move best position - random,303,Solução,9
-move best position - random,129,Solução,9
-move best position - random,299,Solução,9
-move best position - random,7,Solução,9
-move best position - random,14,Solução,9
-move best position - random,9,Solução,9
-move best position - random,104,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,27,Solução,9
-move best position - random,12,Solução,9
-move best position - random,13,Solução,9
-move best position - random,61,Solução,9
-move best position - random,10,Solução,9
-move best position - random,21,Solução,9
-move best position - random,51,Solução,9
-move best position - random,11,Solução,9
-move best position - random,34,Solução,9
-move best position - random,75,Solução,9
-move best position - random,7,Solução,9
-move best position - random,31,Solução,9
-move best position - random,25,Solução,9
-move best position - random,28,Solução,9
-move best position - random,76,Solução,9
-move best position - random,38,Solução,9
-move best position - random,42,Solução,9
-move best position - random,115,Solução,9
-move best position - random,70,Solução,9
-move best position - random,17,Solução,9
-move best position - random,50,Solução,9
-move best position - random,17,Solução,9
-move best position - random,7,Solução,9
-move best position - random,62,Solução,9
-move best position - random,7,Solução,9
-move best position - random,57,Solução,9
-move best position - random,11,Solução,9
-move best position - random,6,Solução,9
-move best position - random,9,Solução,9
-move best position - random,17,Solução,9
-move best position - random,118,Solução,9
-move best position - random,26,Solução,9
-move best position - random,77,Solução,9
-move best position - random,25,Solução,9
-move best position - random,10,Solução,9
-move best position - random,7,Solução,9
-move best position - random,86,Solução,9
-move best position - random,19,Solução,9
-move best position - random,1001,Falha,9
-move best position - random,12,Solução,9
-move best position - random,17,Solução,9
-move best position - random,12,Solução,9
-move best position - random,13,Solução,9
-move best position - random,25,Solução,9
-move best position - random,9,Solução,9
-move best position - random,10,Solução,9
-move best position - random,33,Solução,9
-move best position - random,105,Solução,9
-move best position - random,7,Solução,9
-move best position - random,49,Solução,9
-move best position - random,10,Solução,9
-move best position - random,100,Solução,9
-move best position - random,19,Solução,9
-move best position - random,59,Solução,9
-move best position - random,189,Solução,9
-move best position - random,13,Solução,9
-move best position - random,7,Solução,9
-move best position - random,63,Solução,9
-move best position - random,9,Solução,9
-move best position - random,23,Solução,9
-move best position - random,61,Solução,9
-move best position - random,10,Solução,9
-move best position - random,7,Solução,9
+method,iterations,status,board_size,step
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,88,Solução,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,136,Solução,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,118,Solução,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+standard,1001,Falha,9,1
+move best position - random,49,Solução,9,1
+move best position - random,94,Solução,9,1
+move best position - random,70,Solução,9,1
+move best position - random,44,Solução,9,1
+move best position - random,117,Solução,9,1
+move best position - random,307,Solução,9,1
+move best position - random,88,Solução,9,1
+move best position - random,174,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,44,Solução,9,1
+move best position - random,75,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,83,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,136,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,83,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,19,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,53,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,52,Solução,9,1
+move best position - random,76,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,78,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,36,Solução,9,1
+move best position - random,26,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,48,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,192,Solução,9,1
+move best position - random,102,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,121,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,53,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,44,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,44,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,21,Solução,9,1
+move best position - random,69,Solução,9,1
+move best position - random,37,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,15,Solução,9,1
+move best position - random,32,Solução,9,1
+move best position - random,91,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,45,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,39,Solução,9,1
+move best position - random,96,Solução,9,1
+move best position - random,130,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,20,Solução,9,1
+move best position - random,116,Solução,9,1
+move best position - random,136,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,222,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,159,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,46,Solução,9,1
+move best position - random,34,Solução,9,1
+move best position - random,163,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,255,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,57,Solução,9,1
+move best position - random,45,Solução,9,1
+move best position - random,99,Solução,9,1
+move best position - random,137,Solução,9,1
+move best position - random,147,Solução,9,1
+move best position - random,48,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,156,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,187,Solução,9,1
+move best position - random,71,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,95,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,33,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,77,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,52,Solução,9,1
+move best position - random,99,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,109,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,90,Solução,9,1
+move best position - random,36,Solução,9,1
+move best position - random,42,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,33,Solução,9,1
+move best position - random,50,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,18,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,106,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,111,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,22,Solução,9,1
+move best position - random,50,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,22,Solução,9,1
+move best position - random,155,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,161,Solução,9,1
+move best position - random,40,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,93,Solução,9,1
+move best position - random,80,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,26,Solução,9,1
+move best position - random,60,Solução,9,1
+move best position - random,32,Solução,9,1
+move best position - random,49,Solução,9,1
+move best position - random,73,Solução,9,1
+move best position - random,107,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,124,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,41,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,42,Solução,9,1
+move best position - random,78,Solução,9,1
+move best position - random,34,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,36,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,7,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,12,Solução,9,1
+move best position - random,46,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,56,Solução,9,1
+move best position - random,48,Solução,9,1
+move best position - random,121,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,58,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,128,Solução,9,1
+move best position - random,44,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,50,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,416,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,89,Solução,9,1
+move best position - random,37,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,122,Solução,9,1
+move best position - random,35,Solução,9,1
+move best position - random,191,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,46,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,46,Solução,9,1
+move best position - random,122,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,93,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,53,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,58,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,60,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,45,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,77,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,141,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,26,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,237,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,117,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,26,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,45,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,81,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,40,Solução,9,1
+move best position - random,157,Solução,9,1
+move best position - random,39,Solução,9,1
+move best position - random,315,Solução,9,1
+move best position - random,103,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,76,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,184,Solução,9,1
+move best position - random,34,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,32,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,78,Solução,9,1
+move best position - random,71,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,53,Solução,9,1
+move best position - random,48,Solução,9,1
+move best position - random,88,Solução,9,1
+move best position - random,48,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,72,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,89,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,65,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,34,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,32,Solução,9,1
+move best position - random,72,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,113,Solução,9,1
+move best position - random,57,Solução,9,1
+move best position - random,56,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,49,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,64,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,74,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,22,Solução,9,1
+move best position - random,365,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,15,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,54,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,26,Solução,9,1
+move best position - random,34,Solução,9,1
+move best position - random,49,Solução,9,1
+move best position - random,138,Solução,9,1
+move best position - random,99,Solução,9,1
+move best position - random,141,Solução,9,1
+move best position - random,108,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,186,Solução,9,1
+move best position - random,51,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,136,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,104,Solução,9,1
+move best position - random,33,Solução,9,1
+move best position - random,98,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,68,Solução,9,1
+move best position - random,200,Solução,9,1
+move best position - random,53,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,71,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,109,Solução,9,1
+move best position - random,37,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,271,Solução,9,1
+move best position - random,84,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,112,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,123,Solução,9,1
+move best position - random,97,Solução,9,1
+move best position - random,69,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,72,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,192,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,72,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,141,Solução,9,1
+move best position - random,22,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,57,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,148,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,34,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,114,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,42,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,9,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,155,Solução,9,1
+move best position - random,107,Solução,9,1
+move best position - random,46,Solução,9,1
+move best position - random,86,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,93,Solução,9,1
+move best position - random,68,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,275,Solução,9,1
+move best position - random,37,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,33,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,35,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,167,Solução,9,1
+move best position - random,76,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,61,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,9,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,42,Solução,9,1
+move best position - random,71,Solução,9,1
+move best position - random,161,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,134,Solução,9,1
+move best position - random,91,Solução,9,1
+move best position - random,32,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,70,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,159,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,59,Solução,9,1
+move best position - random,51,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,73,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,35,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,61,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,32,Solução,9,1
+move best position - random,107,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,13,Solução,9,1
+move best position - random,39,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,70,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,116,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,33,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,111,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,40,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,33,Solução,9,1
+move best position - random,282,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,86,Solução,9,1
+move best position - random,26,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,26,Solução,9,1
+move best position - random,224,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,65,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,49,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,75,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,26,Solução,9,1
+move best position - random,116,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,262,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,46,Solução,9,1
+move best position - random,84,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,44,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,52,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,94,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,33,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,7,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,7,Solução,9,1
+move best position - random,36,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,50,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,83,Solução,9,1
+move best position - random,72,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,70,Solução,9,1
+move best position - random,22,Solução,9,1
+move best position - random,57,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,8,Solução,9,1
+move best position - random,151,Solução,9,1
+move best position - random,78,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,25,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,91,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,49,Solução,9,1
+move best position - random,80,Solução,9,1
+move best position - random,92,Solução,9,1
+move best position - random,160,Solução,9,1
+move best position - random,54,Solução,9,1
+move best position - random,41,Solução,9,1
+move best position - random,78,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,57,Solução,9,1
+move best position - random,66,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,20,Solução,9,1
+move best position - random,107,Solução,9,1
+move best position - random,72,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,22,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,54,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,98,Solução,9,1
+move best position - random,44,Solução,9,1
+move best position - random,69,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,63,Solução,9,1
+move best position - random,191,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,35,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,30,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,63,Solução,9,1
+move best position - random,86,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,20,Solução,9,1
+move best position - random,94,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,152,Solução,9,1
+move best position - random,118,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,50,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,54,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,22,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,81,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,238,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,440,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,204,Solução,9,1
+move best position - random,64,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,176,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,17,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,22,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,51,Solução,9,1
+move best position - random,58,Solução,9,1
+move best position - random,26,Solução,9,1
+move best position - random,82,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,193,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,84,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,68,Solução,9,1
+move best position - random,40,Solução,9,1
+move best position - random,100,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,20,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,280,Solução,9,1
+move best position - random,34,Solução,9,1
+move best position - random,33,Solução,9,1
+move best position - random,235,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,104,Solução,9,1
+move best position - random,304,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,19,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,37,Solução,9,1
+move best position - random,61,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,63,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,27,Solução,9,1
+move best position - random,58,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,53,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,51,Solução,9,1
+move best position - random,81,Solução,9,1
+move best position - random,49,Solução,9,1
+move best position - random,91,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,68,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,327,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,6,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,66,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,90,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,34,Solução,9,1
+move best position - random,51,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,66,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,71,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,108,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,50,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,38,Solução,9,1
+move best position - random,76,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,34,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,34,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,166,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,44,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,131,Solução,9,1
+move best position - random,47,Solução,9,1
+move best position - random,112,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,126,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,37,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,46,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,64,Solução,9,1
+move best position - random,230,Solução,9,1
+move best position - random,93,Solução,9,1
+move best position - random,137,Solução,9,1
+move best position - random,31,Solução,9,1
+move best position - random,100,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,270,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,29,Solução,9,1
+move best position - random,64,Solução,9,1
+move best position - random,61,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,26,Solução,9,1
+move best position - random,62,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,110,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,48,Solução,9,1
+move best position - random,163,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,15,Solução,9,1
+move best position - random,96,Solução,9,1
+move best position - random,42,Solução,9,1
+move best position - random,74,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,21,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,97,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,91,Solução,9,1
+move best position - random,39,Solução,9,1
+move best position - random,76,Solução,9,1
+move best position - random,32,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,113,Solução,9,1
+move best position - random,110,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,109,Solução,9,1
+move best position - random,50,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,87,Solução,9,1
+move best position - random,179,Solução,9,1
+move best position - random,113,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,69,Solução,9,1
+move best position - random,152,Solução,9,1
+move best position - random,63,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,172,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,98,Solução,9,1
+move best position - random,97,Solução,9,1
+move best position - random,61,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,12,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,205,Solução,9,1
+move best position - random,135,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,24,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,35,Solução,9,1
+move best position - random,296,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,13,Solução,9,1
+move best position - random,30,Solução,9,1
+move best position - random,191,Solução,9,1
+move best position - random,47,Solução,9,1
+move best position - random,43,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,45,Solução,9,1
+move best position - random,46,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,9,Solução,9,1
+move best position - random,139,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,16,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,22,Solução,9,1
+move best position - random,17,Solução,9,1
+move best position - random,19,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,90,Solução,9,1
+move best position - random,71,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,104,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,38,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,18,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,71,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,45,Solução,9,1
+move best position - random,56,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,38,Solução,9,1
+move best position - random,77,Solução,9,1
+move best position - random,20,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,23,Solução,9,1
+move best position - random,53,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,10,Solução,9,1
+move best position - random,36,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,86,Solução,9,1
+move best position - random,9,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,96,Solução,9,1
+move best position - random,36,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,170,Solução,9,1
+move best position - random,208,Solução,9,1
+move best position - random,44,Solução,9,1
+move best position - random,21,Solução,9,1
+move best position - random,136,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,61,Solução,9,1
+move best position - random,51,Solução,9,1
+move best position - random,49,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,27,Solução,9,1
+move best position - random,40,Solução,9,1
+move best position - random,10,Solução,9,1
+move best position - random,42,Solução,9,1
+move best position - random,76,Solução,9,1
+move best position - random,348,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,16,Solução,9,1
+move best position - random,14,Solução,9,1
+move best position - random,85,Solução,9,1
+move best position - random,12,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,41,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,9,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,32,Solução,9,1
+move best position - random,37,Solução,9,1
+move best position - random,52,Solução,9,1
+move best position - random,11,Solução,9,1
+move best position - random,113,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,89,Solução,9,1
+move best position - random,28,Solução,9,1
+move best position - random,25,Solução,9,1
+move best position - random,55,Solução,9,1
+move best position - random,7,Solução,9,1
+move best position - random,72,Solução,9,1
+move best position - random,52,Solução,9,1
+move best position - random,132,Solução,9,1
+move best position - random,8,Solução,9,1
+move best position - random,1001,Falha,9,1
+move best position - random,17,Solução,9,1
+move best position - random,125,Solução,9,1
+move best position - random,48,Solução,9,1
+move best position - random,27,Solução,9,1
+move best position - random,21,Solução,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,24,Solução,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,33,Solução,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,39,Solução,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,4
+random board and step,1001,Falha,9,5
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,7
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,8
+random board and step,1001,Falha,9,3
+random board and step,1001,Falha,9,6
+random board and step,1001,Falha,9,1
+random board and step,1001,Falha,9,2
+random board and step,1001,Falha,9,5

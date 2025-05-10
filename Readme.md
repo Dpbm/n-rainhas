@@ -42,10 +42,82 @@ Uma vez que a implementação faz com que o próximo passo seja randômico, não
 
 Para resolver isso, podemos movimentar as rainhas de uma forma mais coordenada. Podemos fazer com que cada rainha mova para a esquerda ou direita baseando-se na quantidade de ataques que cada posição gera, escolhendo a posição com menor número de ataques.
 
-Mesmo sendo uma solução interessante para o problema, podemos ter configurações que se não conseguem evoluir. Para isso podemos tomar dois caminhos:
+Mesmo sendo uma solução interessante para o problema, podemos ter configurações que se não conseguem evoluir. Para resolver isso, podemos, verificar se a configuração é a mesma da anterior. Caso seja, movemos uma rainha aleatoriamente. Dessa forma, podemos fazer com que o algoritmo sempre tenha algo a melhorar, aumentando as chances de encontrar a solução.
 
-1. verificamos se a configuração é a mesma da anterior. Caso seja, movemos uma rainha aleatoriamente
-2. verificamos se a posição do rainha atual é a mesma da anterior. Caso seja, movemos a rainha para a direita $n$ casas.
 
-Dessa forma, podemos fazer com que o algoritmo sempre tenha algo a melhorar, aumentando as chances de encontrar a solução.
+### Solução 2 - Tabuleiros e passos aleatórios
 
+Para a segunda solução, utilizamos o algoritmo padrão, mas dessa vez, iniciamos a busca com uma configuração aleatória e um passo aleatório no intervalo de $[1, n-1]$ sendo $n$ a largura do tabuleiro.
+
+Usando esse método, damos incentivo ao algoritmo testar novas possibilidades e assim evitar ficar preso em um local optima.
+
+### Solução 3 - Outros algoritmos
+
+A solução mais sensata nesse caso, seria pensar em utilizar outro algoritmo que não apresentasse esses problemas que o `Hill Climbing` apresenta.
+
+Utilizar algoritmos como `Simulated Annealing`, `Algoritmos genéticos` ou até mesmo métodos de busca cega/brute force, podem ser interessantes, mesmo que a performance talvez não seja a melhor. 
+
+
+## Comparações
+
+As soluções propostas foram testadas lado a lado com a implementação original. Para meios de comparação, executamos as $3$ versões $1000$ vezes e salvamos os resultados. `Obs: o tabuleiro usado aqui foi o 9x9`.
+
+Em relação a quantidade de erros e acertos, sem duvidas o primeiro método foi o melhor de todos. Seu método guloso se mostrou muito eficaz para tal problema, conseguindo encontrar a solução a maior parte do tempo.
+
+Outro fator interessante a se observar é que mesmo sendo promissor, a segunda solução dada não conseguiu ter nenhum ganho em relação ao método convencional do `Hill Climbing`.
+
+
+![comparação dos resultados](./assets/comparação-total-erros-acertos.png)
+
+---
+
+Além disso, podemos verificar a distribuição dos dados:
+
+![distribuição](./assets/distribuicao-resultados.png)
+
+Nesse caso, vemos que a primeira solução dada consegue encontrar a solução com poucas iterações, contudo possui maior dispersão dos dados, já que utiliza um método randômico internamente.
+
+Podemos também ver que, o ultimo método consegue chegar antes na solução do que o método default. Isso se dá pelo uso de tamanho de passo aleatórios, aumentando a chance de chegar mais rápido ao resultado.
+
+No geral, a soluções com os menores números de passos foram:
+
+método | passos | tamanho do passo
+-------|--------|------------------
+padrão | 88 | 1
+solução 1 | 6 | 1
+solução 2 | 24 | 6
+
+
+### Complexidade
+
+Mesmo com melhores resultados apresentados, devemos levar em consideração a complexidade de tempo de cada versão. Antes de fazer isso, precisamos definir as primitivas e complexidade de funções auxiliares.
+
+Como primitiva, definiremos as funçoes `calAtaques()` e `locateQueens()`, uma vez que para nossa análise elas não influenciarao, já que sempre serao chamadas $n$ vezes no pior caso. Sendo assim, para esta analise, iremos trata-las como $O(1)$.
+
+Para as funções auxiliares, definiremos as complexidades como:
+
+| função | complexidade |
+|--------|--------------|
+| `moveRainhaAleatoria()` | $O(1)$, uma vez que a proxima casa sempre estará vazia |
+| `moveRainhaMelhorPosicao()` | $O(n^2)$, sendo $n$ o comprimento do tabuleiro |
+
+Com isso podemos dizer que a complexidade para cada versao de implementacao é:
+
+| versão | complexidade |
+|--------|--------------|
+| padrão | $O(r)$, sendo $r$ o número máximo de iterações |
+| solucao 1 | $O(r* (n^2))$ |
+| solucao 2 | $O(r)$ | 
+
+Sendo assim, o algoritmo que acaba sendo melhor em sentido de tempo de execução é a `solução 2`, uma vez que, como visto, consegue encontrar o resultado mais rápido e ainda possui mesma complexidade de que a versao padrao.
+
+No entanto, como o que queremo é encontrar o resultado correto a maior parte das vezes, a `solução 1` ainda é a melhor, tendo um tradeoff de `tempo-solução`.
+
+## Conclusão
+
+Visto os resultados, sem dúvida a `solução 1` é a que melhor consegue se sair no problema das `n-rainhas`. Contudo, essa solução não é eficiente no ponto de vista de complexidade de tempo.
+
+
+## Responsáveis pelo material
+
+Todo material apresentado aqui foi feito por nós e o professor.

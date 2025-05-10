@@ -1,0 +1,4 @@
+method,iterations,status,board_size,step
+standard,88,Solução,9,1
+move best position - random,6,Solução,9,1
+random board and step,24,Solução,9,6
