@@ -1,5 +1,11 @@
 # Resolvendo o problema de local optima - NRainhas
 
+<div align="center">
+  <a href="./readme-en.md">en-us</a>
+  |
+  <a href="./Readme.md">pt-br</a>
+</div>
+
 Durante nossas aulas de Inteligência artificial, estávamos estudando sobre algoritmos de busca, mais precisamente o algoritmo de busca informada `Hill Climbing`. Para aprender sobre esse algoritmo, o implementamos para resolver o problema das `N-Rainhas`. Vimos que este é um algoritmo muito bom para resolver o problema rapidamente, contudo este se mostra como muito propenso a ficar estagnado no ótimo local.
 
 Devido a isso, nosso professor [João Ricardo Favan](https://scholar.google.com.br/citations?user=fm6GR6YAAAAJ) nos deu o desafio de encontrar uma maneira de diminuir as chances do algoritmo empacar no ótimo local, e é por isso que estamos aqui.
@@ -131,7 +137,7 @@ Utilizar algoritmos como `Simulated Annealing`, `Algoritmos genéticos` ou até 
 
 ## Comparações
 
-As soluções propostas foram testadas lado a lado com a implementação original. Para meios de comparação, executamos as $3$ versões $1000$ em tabuleiros $9X9$ vezes e salvamos os resultados.
+As soluções propostas foram testadas lado a lado com a implementação original. Para meios de comparação, executamos as $3$ versões $1000$ vezes em tabuleiros $9X9$ vezes e salvamos os resultados.
 
 ### Erros e acertos
 
